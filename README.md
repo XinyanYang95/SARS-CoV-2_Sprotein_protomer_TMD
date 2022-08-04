@@ -18,7 +18,7 @@ File and script descriptions:
   PCA_PseudoDihedral_RMSD.ipynb - Jupyter notebook for Principal Component Analysis (PCA), pesudo diheral analysis, and Root Mean Squared Deviation (RMSD) analysis.
   GlycanProteinHonds_DomainDistance_PseudoAngle.ipynb - Jupyter notebook for glycan-protein H-bond analysis, NTD-RBD domain distance analysis, and pesudo angle analysis.
   porcupinePC.tcl and readData.tcl - .tcl scripts for plotting porcupine plot (in VMD) with two dominant protein motions calculated by PCA.
-  TMDReport_Xinyan_04272021 - a word report of SARS-CoV-2 Spike Protein protomer A down-to-up transition.
+  TMDReport_Xinyan_04272021 - a pdf report of SARS-CoV-2 Spike Protein protomer A down-to-up transition.
   ReportPlots - example plots saved by data analysis Jupyter notebooks.
 
 Other files (protein structure and data) are too large to upload here. They are available per request.
